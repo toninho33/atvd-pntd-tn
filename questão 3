@@ -11,11 +11,11 @@ programa {
 
     se(valorA == valorB) 
     soma = valorA + valorB
-    escreva("A soma é ", soma)
+    escreva("A soma Ã© ", soma)
 
    se(valorA != valorB) 
    multiplicacao = valorA * valorB
-   escreva("A multiplicacao é ", multiplicacao)
+   escreva("A multiplicacao Ã© ", multiplicacao)
 
 
 
