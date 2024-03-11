@@ -15,10 +15,10 @@ programa {
 
     // Resultado    
     se(valorA + valorB > valorC)
-    escreva("os valores ", valorA, " + ", valorB, "São maiores que o valor", valorC)
+    escreva("os valores ", valorA, " + ", valorB, "SÃ£o maiores que o valor", valorC)
     
     senao
-    escreva("os valores", valorA, "+", valorB, "São menores que o valor", valorC)
+    escreva("os valores", valorA, "+", valorB, "SÃ£o menores que o valor", valorC)
 
 
 
