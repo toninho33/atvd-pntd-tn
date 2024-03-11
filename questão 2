@@ -11,7 +11,7 @@ programa {
     escreva("Qual seu sexo: ")
     leia(sexo)
 
-    escreva("Qual é o seu estado civil: ")
+    escreva("Qual Ã© o seu estado civil: ")
     leia(estado_civil)
 
     escreva("=== Exibindo resultados ===")
@@ -22,7 +22,7 @@ programa {
     se(estado_civil == "Casada")
     escreva("\nQuantos anos de casamanento tem: ")
     leia(anos_de_casada)
-    escreva("Seu tempo de casamento é: ", anos_de_casada, "anos")
+    escreva("Seu tempo de casamento Ã©: ", anos_de_casada, "anos")
 
   }
 }
